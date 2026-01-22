@@ -1,7 +1,9 @@
 ---
 name: repo-onboarding
 description: Explain the repository structure and how to run/use it when the user asks what is in this repo or how to start.
+verbosity: medium
 ---
+
 Deliver:
 - Repo purpose (infer from README + files).
 - Directory/file map (top-level).
